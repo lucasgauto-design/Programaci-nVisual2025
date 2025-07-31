@@ -11,6 +11,8 @@ Descripción de Proyecto:
 Sistema Domótico
 
 Componentes:
--Arduino
--Driver motor
+
+- Arduino
+- Driver motor
 - LED
+- Pila
